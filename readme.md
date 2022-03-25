@@ -21,7 +21,7 @@ I have mostly delivered software solutions by myself, but I have worked as a mem
 - Singlehandedly built [cccdenton.org](https://cccdenton.org) (Svelte) [2020]
 - [Svelte MD](https://github.com/gushogg-blake/svelte-md) - A markdown-based static site Generator that enables inserting Svelte Components in markdown files. [2021]
 - Coordinated with the owner of [DMT System](https://dmt-system.com/) to make improvements to the system and one of it's crucial dependencies, a live-syncing, JSON database. [2020]
-- Various software products for Quasar Inc. [2019]
+- Various software products for Quasar Risk LLC. [2019]
 
 ## Open Source Projects
 

@@ -8,7 +8,18 @@ I have mostly delivered software solutions by myself, but I have worked as a mem
 
 > NOTE: Bracketed numbers represent the year that the work was done
 
-## Previously at [Codepilot](https://www.codepilot.com/) [2022]
+## Currently at [VenuesNYC](https://www.venuesnyc.com/) [2022]
+
+- Lead Software Engineer for company software rewrite
+- Manage 2 part time developers
+- Fullstack web application with integrated admin portals throughout the site (SvelteKit, MongoDb, Vercel).  Features:
+  - Venue listing, booking, and reviewing is supported
+  - Email notifications and payments
+  - Venue searching with advanced filters and map bounds
+  - Mobile (in progress) and desktop responsive user interface
+- Links will be posted once website becomes public
+
+## Currently at [Codepilot](https://www.codepilot.com/) [2022]
 
 - Built and maintained software for TheNobo
   - Backend Rest API (Express, NodeJS, MongoDb)
@@ -16,7 +27,7 @@ I have mostly delivered software solutions by myself, but I have worked as a mem
   - Admin panel for the site (SvelteKit)
   - TheNobo IOS app, of which I was the sole developer (SvelteKit, Capacitor)
 
-## Projects I Freelanced
+## Older Freelance Projects
 
 - Singlehandedly built [cccdenton.org](https://cccdenton.org) (Svelte) [2020]
 - [Svelte MD](https://github.com/gushogg-blake/svelte-md) - A markdown-based static site Generator that enables inserting Svelte Components in markdown files. [2021]
@@ -25,6 +36,7 @@ I have mostly delivered software solutions by myself, but I have worked as a mem
 
 ## Open Source Projects
 
+- [Finance](https://finance.vehmloewff.com) - An envelope based finances tracker.  It is similar to Jikno Finance except it does not use autobase, but encrypts it's JSON data as txt files and uploads them to a simple key/value database.  (Svelte) [2022]
 - [Jikno Finance](https://github.com/Vehmloewff/jiknofinance) - An envelope-based finances tracker.  Mobile-friendly website is hosted at finance.jikno.com, but is not always guaranteed to be online due to the cost of maintaining servers.  (Svelte, Capacitor, Autobase) [2022]
 - [Autobase](https://github.com/Vehmloewff/autobase) - A database, live json syncer, and api all in one. (Typescript) [2022]
 - [Mafia](https://github.com/Vehmloewff/mafia) - A live, multiplayer mafia game.  Mobile-friendly site is at mafia.jiknoapps.com, but it may not always be online due to the cost of maintaining servers. (Typescript) [2020]

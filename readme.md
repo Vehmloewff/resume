@@ -6,20 +6,24 @@ I've spent 3 years building web, desktop, and mobile applications.
 
 I have mostly delivered software solutions by myself, but I have worked as a member of a small team before.-
 
-> NOTE: Bracketed numbers represent the year that the work was done
+> NOTE: Bracketed numbers represent the year that the work was done/is being done
 
-## Currently at [VenuesNYC](https://www.venuesnyc.com/) [2022]
+## Contracted for [BVC Solutions](https://bvc.solutions/) [2022]
 
-- Lead Software Engineer for company software rewrite
+- Built several calculators, including [this one](https://pratexo.com/sustainability-calculator/)
+- Building an enterprise, performance optimized, multi-tenant application, which is currently in stealth mode (Svelte, Deno, Postgres)
+
+## Contracted for [VenuesNYC](https://www.venuesnyc.com/) [2022]
+
+- Lead software engineer for company software rewrite
 - Manage 2 part time developers
 - Fullstack web application with integrated admin portals throughout the site (SvelteKit, MongoDb, Vercel).  Features:
   - Venue listing, booking, and reviewing is supported
   - Email notifications and payments
   - Venue searching with advanced filters and map bounds
   - Mobile (in progress) and desktop responsive user interface
-- Links will be posted once website becomes public
 
-## Currently at [Codepilot](https://www.codepilot.com/) [2022]
+## Contracted for [Codepilot](https://www.codepilot.com/) [2022]
 
 - Built and maintained software for TheNobo
   - Backend Rest API (Express, NodeJS, MongoDb)
@@ -51,14 +55,14 @@ I have mostly delivered software solutions by myself, but I have worked as a mem
 - Programming Languages
   - Javascript (very experienced)
   - Typescript (very experienced, preferred)
-  - Dart (moderately experienced)
+  - Dart (mildly experienced)
   - Rust (functional, but not that experienced)
 
 - Frontend Stacks
   - Svelte (very experienced, preferred)
   - SvelteKit (very experienced)
   - React (moderately experienced)
-  - Flutter (moderately experienced)
+  - Flutter (mildly experienced)
 
 - Backend Stacks
   - Deno (very experienced, preferred)
@@ -66,8 +70,8 @@ I have mostly delivered software solutions by myself, but I have worked as a mem
 
 - Databases
   - MongoDb (very experienced)
-  - FaunaDb (moderately experienced)
-  - MySql (moderately experienced)
+  - FaunaDb (mildly experienced)
+  - MySql (mildly experienced)
   - Postgres (moderately experienced)
 
 ## Older work (lower quality)

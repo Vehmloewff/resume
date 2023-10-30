@@ -9,7 +9,7 @@ large team.
 
 I am capable of working with big data, and I am competent with databases and servers, but I love building sleek user interfaces, especially
 in the form of native mobile and desktop applications. I love the fast pace and inherit risk of small companies, and would far rather focus
-every ounce of my energy into engineering an efficient system than to simply do an easy job.
+every ounce of my energy into engineering an efficient system instead of simply doing an easy job.
 
 > NOTE: Bracketed numbers represent the year that the work was done/is being done
 
